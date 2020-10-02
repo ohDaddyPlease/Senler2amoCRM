@@ -1,0 +1,45 @@
+Array
+(
+    [secret] => 8re8007bb72cad96b28aebbd9ad7dd640eb7e3dd111111
+    [type] => action
+    [object] => Array
+        (
+            [date] => 08.09.2020 13:26:53
+            [group_id] => 191919
+            [vk_user_id] => 111111111
+            [ignore] => 0
+            [subscriptions] => Array
+                (
+                )
+
+            [utms] => Array
+                (
+                )
+
+            [first_name] => Какой-то
+            [last_name] => Пользователь
+            [photo] => https://sun9-39.userapi.com/impg/YBVM04gHjDN85MGg3jAw2kvGkrQg_0fDdYgo-w/IEJiQqt1DOQ.jpg
+            [sex] => 2
+            [domain] => durov
+            [city_id] => 800
+            [country_id] => 220
+            [vars] => Array
+                (
+                    [0] => Array
+                        (
+                            [n] => phone
+                            [v] => 88005553535
+                        )
+
+                )
+
+            [vk_group_id] => 191919199
+            [unixtime] => 1599560813
+            [variables] => Array
+                (
+                    [phone] => 88005553535
+                )
+
+        )
+
+)
